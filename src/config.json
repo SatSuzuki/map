@@ -1,9 +1,9 @@
 {
-  "title": "Geolonia PWAマップ",
-  "description": "Google スプレッドシートを更新するだけでオリジナルの地図アプリを作成できる\n「Geolonia PWAマップ」",
+  "title": "taknal 本まっぷ",
+  "description": "本と出会える、読書がもっと楽しくなる、そんな場所を集めたマップです!",
   "form_url": "",
-  "logo_image_url": "https://geoloniamaps.github.io/pwamap/icon-pwamap.svg",
-  "background_image_url": "https://geoloniamaps.github.io/pwamap/geolonia_bgimage_1920_1080.png",
+  "logo_image_url": "https://taknal.app/img/mainlogo.png",
+  "background_image_url": "https://taknal.app/img/bak_footer.png",
   "primary_color": "#d2691e",
   "orderby": "distance"
 }
