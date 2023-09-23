@@ -615,11 +615,51 @@
     ],
     [
       "",
+      "ホテル",
+      "https://mangaarthotel.com/maht/img/190117_016.jpg",
+      "35.69393631",
+      "139.7646135",
+      "MANGA ART HOTEL, TOKYO",
+      "漫画をテーマにしたカプセルホテル。一晩中マンガ体験を楽しみましょう。",
       "",
       "",
+      "https://mangaarthotel.com/"
+    ],
+    [
+      "",
+      "美容室",
+      "https://tabiiro.s3.amazonaws.com/files/article/206995/large_206995_8.jpg",
+      "35.66303836",
+      "139.6658465",
+      "文学堂美容室retri",
+      "髪を切るのも本を読むのも気分転換。小説、ビジネス書、漫画など2000冊以上のラインアップから読書しながらカットできます。",
       "",
       "",
-      "MANGA ART HOTEL, TOKYO"
+      "https://www.retri-bungakudo.com/index.html"
+    ],
+    [
+      "",
+      "カフェ",
+      "https://tabiiro.s3.amazonaws.com/files/article/206995/large_206995_10.jpg",
+      "35.6600138",
+      "139.6996206",
+      "森の図書室",
+      "好きな本を好きなものを食べながら楽しめる空間。図書館とは異なりおしゃべりも歓迎とのこと。本に登場する食べ物も楽しめるそうです。",
+      "",
+      "",
+      "https://morinotosyoshitsu.com/"
+    ],
+    [
+      "",
+      "本の舞台",
+      "https://www.hanmoto.com/bd/img/9784041113936.jpg?2022-01-20T10%3A13%3A15%2B09%3A00",
+      "34.78114955",
+      "135.4211563",
+      "有岡城跡",
+      "米澤穂信さんの「黒牢城」の舞台。天守のない城跡ですが、城主荒木村重の物語に想いを馳せて訪れるのもいいかも。",
+      "",
+      "",
+      "https://www.shirofan.com/shiro/kinki/arioka/arioka.html"
     ]
   ]
 }
